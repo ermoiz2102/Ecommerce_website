@@ -1,9 +1,10 @@
-![1](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/01b34288-7733-45a0-8f25-ce419257875d)
-![2](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/065dc28b-2dd7-4743-b640-2e2c4ffdb608)
-![3](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/b82af3f0-42b1-4945-81ca-43b1922dc789)
-![4](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/aec6e98b-2a2e-4b7c-bf45-8a958170b590)
-![5](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/9aae511c-bfa6-4d77-84f1-2fdcc6aeb480)
-![6](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/cb007cbb-86e1-4922-8c29-c4a5595bb952)
-![7](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/27b60000-5a13-49b2-897d-3869ca7ae24a)
+![1](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/4bea4839-cee5-41b3-af7c-0b6ebc9cb566)
+![2](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/76f31d24-54c7-402a-96b3-610e9d226fc6)
+![3](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/c8e24ddc-ef16-4115-aa11-5d5e6b141b64)
+![4](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/3a1ebe7e-cf70-4675-b4bc-8acafebe7d72)
+![5](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/da2a3465-2ffe-4dd3-9519-fe3532c791cd)
+![6](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/3d0daf20-be5f-4ba0-b658-390fcf891f52)
+![7](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/22b30814-ff80-47af-ab35-06abe9a9e870)
+
 # Ecommerce_website
 An Ecommerce website where you can order adn add the product into the cart
