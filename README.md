@@ -1,3 +1,5 @@
+# Ecommerce_website
+
 Project Description: Ecommerce Application
 
 
@@ -22,11 +24,14 @@ SQL Database: The application utilizes a SQL database to store and manage user a
 
 
 Setup and Dependencies
+
 To run the application locally, make sure you have the following dependencies installed:
 
 
 Java Development Kit (JDK)
+
 JavaFX and Swing libraries
+
 SQL Database (e.g., MySQL) with the necessary JDBC driver
 
 
@@ -38,5 +43,4 @@ SQL Database (e.g., MySQL) with the necessary JDBC driver
 ![6](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/3d0daf20-be5f-4ba0-b658-390fcf891f52)
 ![7](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/22b30814-ff80-47af-ab35-06abe9a9e870)
 
-# Ecommerce_website
-An Ecommerce website where you can order adn add the product into the cart
+
