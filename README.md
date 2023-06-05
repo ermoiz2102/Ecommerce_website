@@ -13,15 +13,21 @@ Add to Cart: Users can add products to their shopping cart with the click of a b
 Cart Management: Users can view their shopping cart and buy items. The cart shows a summary of the selected items and their individual and total prices.
 
 Technologies Used
+
 Java: The core programming language used for the application's backend logic and business rules.
+
 JavaFX and Swing: The graphical user interface frameworks used for designing and implementing the application's user interface.
-SQL Database: The application utilizes a SQL database to store and manage user accounts, product details, shopping cart data, and order history. The specific SQL database technology used can be mentioned here (e.g., MySQL, PostgreSQL, etc.).
+
+SQL Database: The application utilizes a SQL database to store and manage user accounts, product details, shopping cart data. The specific SQL database technology used can be mentioned here (e.g., MySQL).
+
+
 Setup and Dependencies
 To run the application locally, make sure you have the following dependencies installed:
 
+
 Java Development Kit (JDK)
 JavaFX and Swing libraries
-SQL Database (e.g., MySQL, PostgreSQL) with the necessary JDBC driver
+SQL Database (e.g., MySQL) with the necessary JDBC driver
 
 
 ![1](https://github.com/ermoiz2102/Ecommerce_website/assets/115916289/4bea4839-cee5-41b3-af7c-0b6ebc9cb566)
