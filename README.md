@@ -3,7 +3,7 @@
 Project Description: Ecommerce Application
 
 
-This project is a major Ecommerce application developed using Java, JavaFX, Swing, and SQL database. The application provides users with a platform to browse, purchase items, and manage their shopping cart. It includes features like user login, adding items to the cart and pur. The application's codebase is hosted on GitHub.
+This project is a major Ecommerce application developed using Java, JavaFX, Swing, and SQL database. The application provides users with a platform to browse, purchase items, and manage their shopping cart. It includes features like user login, adding items to the cart and purchase. The application's codebase is hosted on GitHub.
 
 Features
 User Authentication: Users can create an account or log in using their credentials. The application securely stores user passwords and handles user sessions.
